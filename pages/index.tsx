@@ -1,8 +1,12 @@
 import type { NextPage } from "next";
-import styles from "../styles/Home.module.css";
+import TodoList from "../components/TodoList";
 
 const Home: NextPage = () => {
-  return <div className={styles.container}></div>;
+  return (
+    <div>
+      <TodoList />
+    </div>
+  );
 };
 
 export default Home;
