@@ -10,4 +10,29 @@ html,
 body {
   line-height: 1.6;
   font-family: "Poppins", sans-serif;
+  background: #081f2c;
+  color: #557181;
+}
+
+.container {
+  width: 900px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.btn {
+  padding: 7px 9px;
+  margin: 5px;
+  cursor: pointer;
+  border: 0;
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background: dodgerblue;
+}
+
+.btn-danger {
+  background: tomato;
 }
