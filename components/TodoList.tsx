@@ -18,8 +18,7 @@ const TodoList: NextPage = () => {
       <h2>Mohamed Rifkan</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis soluta
-        ipsam magni ullam officiis maxime quam neque sit? Eaque nam distinctio
-        quidem sapiente ad quos officiis nulla ullam delectus eveniet.
+        ipsam magni ullam 
       </p>
       <button className="btn btn-primary">Delete</button>
       <button className="btn btn-danger">Edit</button>
